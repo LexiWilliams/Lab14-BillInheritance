@@ -1,0 +1,11 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\bin\Debug\netcoreapp2.2\Lab14-BillInherintance.deps.json
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\bin\Debug\netcoreapp2.2\Lab14-BillInherintance.runtimeconfig.json
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\bin\Debug\netcoreapp2.2\Lab14-BillInherintance.runtimeconfig.dev.json
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\bin\Debug\netcoreapp2.2\Lab14-BillInherintance.dll
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\bin\Debug\netcoreapp2.2\Lab14-BillInherintance.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\obj\Debug\netcoreapp2.2\Lab14-BillInherintance.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\obj\Debug\netcoreapp2.2\Lab14-BillInherintance.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\obj\Debug\netcoreapp2.2\Lab14-BillInherintance.AssemblyInfoInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\obj\Debug\netcoreapp2.2\Lab14-BillInherintance.AssemblyInfo.cs
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\obj\Debug\netcoreapp2.2\Lab14-BillInherintance.dll
+C:\Users\lexas\OneDrive\Desktop\C#\Week 4\Lab14-BillInherintance\Lab14-BillInherintance\obj\Debug\netcoreapp2.2\Lab14-BillInherintance.pdb
